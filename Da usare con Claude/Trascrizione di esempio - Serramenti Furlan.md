@@ -1,13 +1,3 @@
-# Trascrizione di esempio - call commerciale
-
-Questa è la trascrizione di una call commerciale. La usiamo in aula per le demo, e te la lasciamo per allenarti: se non hai ancora una tua call registrata, parti da qui per costruire il tuo Commerciale.
-
-È nel formato in cui te la restituisce uno strumento di trascrizione (Fathom, Granola): nome di chi parla, orario, testo. È una call vera: il cliente divaga, si interrompe, torna indietro, ripete. Le cose che contano sono lì dentro, ma vanno cercate sotto le chiacchiere. Copiala nella tua cartella inbox e provaci.
-
-**Contesto:** Luca Marchetti, consulente di automazione AI, ha una prima call conoscitiva con Marco Furlan, titolare di *Serramenti Furlan* - una piccola azienda di Treviso che produce e installa serramenti e infissi su misura. Si sono trovati tramite un contatto comune. Obiettivo della call: capire se e dove l'AI può far risparmiare tempo all'azienda, e decidere se mandare una proposta.
-
----
-
 **0:00 - Luca Marchetti**
 Marco, mi sente bene? La vedo un po' a scatti.
 

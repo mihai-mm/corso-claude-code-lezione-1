@@ -1,6 +1,6 @@
 # Trascrizione di esempio - call operativa di team
 
-Questa è la trascrizione di una call **operativa** fittizia ma realistica, con **tre persone**. La usiamo per provare `/recap-call`: non è la call commerciale che serve a fare la proposta (quella è l'altra trascrizione, Serramenti Furlan), è la riunione di lavoro che fai *dopo* aver firmato, quando ci si organizza e ci si divide i compiti.
+Questa è la trascrizione di una call **operativa** con **tre persone**. La usiamo per provare `/recap-call`: non è la call commerciale che serve a fare la proposta (quella è l'altra trascrizione, Serramenti Furlan), è la riunione di lavoro che fai *dopo* aver firmato, quando ci si organizza e ci si divide i compiti.
 
 È nel formato in cui te la restituisce uno strumento di trascrizione (Fathom, Granola): nome di chi parla, orario, testo. È una call vera: tre voci che si accavallano, si interrompono, divagano, tornano indietro. Ci sono decisioni prese, un piccolo litigio su da dove partire, e una valanga di "questo lo fai tu, quello lo faccio io". Il bello di `/recap-call` è proprio tirare fuori l'ordine da questo disordine: chi fa cosa, cosa avete deciso, cosa è rimasto in sospeso.
 
