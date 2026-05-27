@@ -1,15 +1,3 @@
-# Trascrizione di esempio - call operativa di team
-
-Questa è la trascrizione di una call **operativa** con **tre persone**. La usiamo per provare `/recap-call`: non è la call commerciale che serve a fare la proposta (quella è l'altra trascrizione, Serramenti Furlan), è la riunione di lavoro che fai *dopo* aver firmato, quando ci si organizza e ci si divide i compiti.
-
-È nel formato in cui te la restituisce uno strumento di trascrizione (Fathom, Granola): nome di chi parla, orario, testo. È una call vera: tre voci che si accavallano, si interrompono, divagano, tornano indietro. Ci sono decisioni prese, un piccolo litigio su da dove partire, e una valanga di "questo lo fai tu, quello lo faccio io". Il bello di `/recap-call` è proprio tirare fuori l'ordine da questo disordine: chi fa cosa, cosa avete deciso, cosa è rimasto in sospeso.
-
-**Una cosa da notare:** qui il cliente è **nuovo**, è la prima call operativa. Quando dai questa trascrizione al tuo account manager, la cartella di questo cliente non esiste ancora: una skill fatta bene se ne accorge e te la crea da zero, e ci salva dentro il recap.
-
-**Contesto:** Luca Marchetti, consulente di automazione AI, ha appena chiuso il contratto con il **Birrificio Tre Pini**, un birrificio artigianale del Cuneese: producono, hanno una taproom dove servono e vendono, riforniscono bar e ristoranti del Piemonte e della Liguria (il B2B), e da un paio d'anni vendono anche online in tutta Italia. Questa è la prima call operativa di avvio progetto. In call ci sono **Davide Ferrero**, fondatore e mastro birraio, che segue anche i locali clienti, e **Giulia Bernardi**, che in ufficio tiene gli ordini, le spedizioni e le email dei clienti. Obiettivo della call: decidere da dove si parte e dividersi i primi compiti.
-
----
-
 **0:00 - Luca Marchetti**
 Eccoci. Mi sentite tutti e due? Davide ti vedo, Giulia te non ti vedo ma ti sento.
 
