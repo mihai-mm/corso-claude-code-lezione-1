@@ -14,7 +14,7 @@ Non devi sapere niente di tecnico. Devi solo avere una trascrizione di call da u
 ## Cosa ti serve prima di partire
 
 - Claude Code installato e funzionante (Lezione 0).
-- **Una trascrizione di una call** con un cliente o un collaboratore: una tua vera, oppure quella di esempio dei materiali del corso. Tienila pronta da incollare.
+- **Una trascrizione di una call** con un cliente o un collaboratore: una tua vera, oppure quella di esempio del corso (per `/recap-call` usa **"Trascrizione di esempio - Birrificio Tre Pini"**, la call operativa di team; la "Serramenti Furlan" è invece la call commerciale del Blocco A). Tienila pronta da incollare.
 
 > Nota: `/recap-call` è per le call **operative** con clienti/collaboratori già acquisiti (cosa avete deciso, chi fa cosa). È diversa dalla `/recap-discovery`, che è per la call commerciale con un potenziale cliente e serve a fare la proposta.
 
