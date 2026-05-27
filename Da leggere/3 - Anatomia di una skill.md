@@ -1,12 +1,10 @@
 # Anatomia di una skill
 
-Una skill non è una formula magica: è fatta di pezzi, e ogni pezzo ha un mestiere. Qui te li spiego tutti.
-
-Non li costruisci tutti oggi. Oggi (Lezione 1) ti servono i primi tre. Gli altri sono il cuore della Lezione 4: te li lascio qui così sai già dove stai andando, ma non devi padroneggiarli adesso.
+Una skill non è una formula magica: è fatta di pochi pezzi, e ogni pezzo ha un mestiere. Qui te li spiego.
 
 Una cosa da tenere a mente per tutto: **una skill, in pratica, è una cartella con dentro un file di testo** (si chiama `SKILL.md`). Niente di esoterico. Un foglio di istruzioni, scritto bene.
 
-## Quello che ti serve oggi
+## I pezzi di una skill
 
 ### Il nome / comando
 
@@ -27,46 +25,6 @@ Non è una parte del file, è il principio che decide se la tua skill sarà buon
 Le skill migliori non si inventano a tavolino: nascono prendendo un lavoro che fai sempre uguale, a mano, e cristallizzandolo. Se il modo in cui lo fai a mano è chiaro, la skill sarà ottima. Se è confuso, lo sarà anche lei.
 
 Regola pratica: se fai una cosa a mano due volte, la terza falla diventare una skill.
-
-## Quello che aggiungerai in Lezione 4
-
-Questi non ti servono per partire. Sono il salto di qualità: trasformano una skill singola in un sistema che lavora da solo.
-
-### La descrizione - il motore
-
-Due o tre righe in cima al file che dicono a Claude due cose: *cosa fa* la skill e *quando* usarla.
-
-È la riga che Claude legge per decidere se attivare la tua skill o ignorarla. Se è scritta male, il manuale sotto non viene mai letto. In Lezione 4 vedrai come scriverla perché si attivi quasi sempre.
-
-### File di supporto (caricati quando servono)
-
-Il file principale resta corto. Gli esempi lunghi, i casi particolari, i template li metti in **file separati** nella stessa cartella, e Claude li apre solo quando servono davvero.
-
-Esempio: la skill che crea proposte ha il file principale snello. L'esempio completo di una proposta corporate, quello di una proposta per una piccola azienda, la lista dei termini di pagamento, stanno in file a parte. Claude li va a prendere solo se quel caso si presenta.
-
-Come un dipendente con un manuale snello in mano e i faldoni di approfondimento nello schedario, che tira fuori solo quando gli serve quel caso.
-
-### Script esterni (lavoro meccanico)
-
-Certi pezzi di un lavoro sono pura esecuzione, sempre identica: non serve ragionare, serve solo fare. Quelli si scrivono come un piccolo programma che la skill lancia, invece di farli rifare all'AI ogni volta.
-
-Esempio: "prendi questo Excel, somma la colonna fatturato, salva un PDF". È un calcolo sempre uguale: un programmino lo fa preciso e veloce, mentre l'AI potrebbe sbagliare i conti o farli diversi ogni volta.
-
-Come la calcolatrice: per sommare non chiami un genio della matematica ogni volta, usi lo strumento che dà sempre lo stesso risultato esatto.
-
-### Tiene il segno (non si ripete)
-
-La skill tiene un piccolo registro di quello che ha già fatto. Quando la rilanci, salta il già fatto e lavora solo le cose nuove.
-
-Esempio: una skill che archivia le call segna quali ha già sistemato; la volta dopo salta quelle e processa solo le nuove. Senza questo, rifarebbe tutto da capo: riprocessa cose già fatte, manda tre volte la stessa email, fa casino.
-
-(Da non confondere con il `MEMORY.md` che vedi nel Blocco B: quello è la memoria delle *decisioni* del cliente. Questo è solo il promemoria interno della skill su cosa ha già lavorato.)
-
-### Orchestrazione (una skill ne chiama altre)
-
-Una skill "madre" che fa partire altre skill in sequenza. Da "ho qualche comando utile" a "ho un sistema che parte da solo".
-
-Esempio classico: un comando della mattina che lancia in automatico cinque skill diverse mentre tu ti fai il caffè.
 
 ## Come te ne crei una, in pratica
 
@@ -107,6 +65,5 @@ Il tuo lavoro è sapere *cosa* vuoi ottenere. Il *come* è il suo mestiere.
 ## Cosa ti porti a casa oggi
 
 - Una skill è una cartella con un file di istruzioni.
-- Oggi ti bastano: nome/comando, corpo corto e chiaro, e il principio "distillala dal lavoro che fai già a mano".
-- Il resto (descrizione-motore, file di supporto, script, registro, orchestrazione) è il salto della Lezione 4.
+- Ti bastano: nome/comando, corpo corto e chiaro, e il principio "distillala dal lavoro che fai già a mano".
 - La regola d'oro per chiederla a Claude: descrivi il risultato, non i passi.

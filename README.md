@@ -4,6 +4,8 @@ Benvenuto. Qui trovi tutto il materiale della prima lezione: i tuoi primi due co
 
 Il materiale è di due tipi, in due cartelle. Uno si legge, l'altro si dà a Claude.
 
+> **Non sai cos'è GitHub o ti senti spaesato?** Apri prima il file **Guida a GitHub** (lo trovi nell'elenco qui sopra): te lo spiego in parole semplici, in due minuti.
+
 ## Da leggere
 
 Documenti da leggere con calma, quando vuoi. Li puoi leggere direttamente qui sul sito (sono già formattati) oppure scaricarli.
