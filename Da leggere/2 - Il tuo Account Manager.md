@@ -16,6 +16,16 @@ L'idea è semplice: **una cartella per ogni cliente**. Lì dentro vive tutto que
 
 Quando lavori su quel cliente, apri quella cartella e Claude ha sotto mano tutta la sua storia. Non gli devi rispiegare niente.
 
+Dentro, quattro cassetti sempre uguali:
+
+```
+Cliente Rossi/
+├── CLAUDE.md      →  le regole di questo cliente
+├── MEMORY.md      →  le decisioni, gli insight, i numeri
+├── call/          →  le call e i recap (/recap-call salva qui)
+└── documenti/     →  i file del cliente
+```
+
 ## Le memorie del tuo collaboratore
 
 Il tuo collaboratore ha due tipi di memoria: quella che vale **sempre** e quella che vale **per un cliente solo**.
