@@ -1,4 +1,4 @@
-# Crea il tuo stile di scrittura
+# Crea il tuo stile di scrittura (Style.md)
 
 Questo è un file guidato: lo dai al tuo Claude e lui ti accompagna, un passo alla volta, a costruire la **scheda del tuo modo di scrivere** - lo `STYLE.md`. Alla fine Claude scriverà email, messaggi e presentazioni con la tua voce, non con quella media dell'AI.
 
